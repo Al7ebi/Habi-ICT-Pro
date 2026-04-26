@@ -1,0 +1,1 @@
+[theme]\nprimaryColor = \"#4A90E2\"\nbackgroundColor = \"#0f1117\"\nsecondaryBackgroundColor = \"#161b22\"\ntextColor = \"#ffffff\"\nfont = \"sans serif\"\n\n[client]\nmaxUploadSize = 200\n\n[logger]\nlevel = \"info\"\n\n[server]\nheadless = true\nport = 8501\nrunOnSave = true\n\n[browser]\nServerAddress = \"localhost\"\n
